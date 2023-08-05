@@ -1,0 +1,6 @@
+userInput = input()
+print(userInput[0])
+print(userInput[1])
+print(userInput[2])
+print(userInput[3])
+print(userInput[4])
